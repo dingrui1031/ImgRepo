@@ -1,2 +1,2 @@
-# ImgRepo
-远程图片存放
+# PrivateDoc
+私人文档仓库
